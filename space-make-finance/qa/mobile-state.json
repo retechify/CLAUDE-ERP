@@ -1,0 +1,17 @@
+{
+  "horizontalOverflow": false,
+  "mobileNavDisplay": "grid",
+  "pocketDisplay": "none",
+  "sidebarDisplay": "none",
+  "topActions": [
+    "Add Transaction",
+    "Add Bill",
+    "Add Variation",
+    "Add Project"
+  ],
+  "viewport": [
+    390,
+    844
+  ],
+  "visibleTitle": "Projects"
+}

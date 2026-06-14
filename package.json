@@ -1,0 +1,8 @@
+{
+  "name": "codex-erp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix space-make-finance install && npm --prefix space-make-finance run build"
+  }
+}

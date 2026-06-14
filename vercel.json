@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npm --prefix space-make-finance install && npm --prefix space-make-finance run build",
   "outputDirectory": "space-make-finance/dist",
   "rewrites": [
     {
